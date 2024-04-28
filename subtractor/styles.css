@@ -3,8 +3,34 @@
     align-items: center;
     justify-content: center;
 }
-
+.adder-image{
+    margin-top: 2.2rem;
+}
 .container{
     display: flex;
     flex-direction: column;
+}
+.adder-parent-container{
+    display: flex;
+}
+.adder-inputs{
+    display: flex;
+    margin-top: 1.8rem;
+    flex-direction: column;
+}
+.adder-outputs{
+    display: flex;
+    margin-left: 1rem;
+    margin-top: 5rem;
+    flex-direction: column;
+}
+.m{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 9rem;
+}
+
+.output{
+    display: flex;
+    justify-content: space-between;
 }

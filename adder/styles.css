@@ -8,3 +8,24 @@
     display: flex;
     flex-direction: column;
 }
+.adder-parent-container{
+    display: flex;
+}
+.adder-inputs{
+    display: flex;
+    margin-top: 1.8rem;
+    flex-direction: column;
+}
+.adder-outputs{
+    display: flex;
+    margin-top: 5rem;
+    flex-direction: column;
+}
+.m{
+    margin-bottom: 7rem;
+}
+
+.output{
+    display: flex;
+    justify-content: space-between;
+}
